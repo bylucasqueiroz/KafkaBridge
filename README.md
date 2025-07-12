@@ -81,4 +81,4 @@ Make sure your Kafka brokers are up and accessible based on the environment conf
 
 ## 📌 License
 
-MIT © YourName
+MIT © Lucas Queiroz
